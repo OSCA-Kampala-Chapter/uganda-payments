@@ -14,7 +14,7 @@ Well if you have been around our developer communities for a while am quite sure
 and a lot more than that, sure no single individual knows these answers, but as a community and developer ecosystem we know and can collect shared knowledge, and this is our humble attempt towards that, contribute to the way, we make this better for everyone else!
 
 - Any Questions Or How To Join?
-  - Send a shout-out in Whatsapp Group: [Dev League](https://chat.whatsapp.com/FlFh7H9rcLV0D4rJLtgpJR)
+  - Send a shout-out in Whatsapp Group: [Dev Lounge](https://chat.whatsapp.com/J1iI7DOhrVu8lVMRIF3cJ1)
   - Mail Me: <hssnkizz@gmail.com> and we see what to do,
   - Otherwise, just follow the contribution guide below, it's dead simple!
   - Or just open an issue or spark a discussion directly here on this repo.
